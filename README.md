@@ -23,8 +23,7 @@ Este repositório contém os seguintes arquivos, todos compatíveis com **SQLite
 3. Execute os scripts **na ordem listada acima**
 4. Verifique os resultados usando a aba "Browse data" ou rodando consultas SQL
 
->  **Dica**: No SQLite, use `TEXT` para strings e datas, e `INTEGER` para números. Não há suporte a `VARCHAR`, `DATETIME` ou `AUTO_INCREMENT` — o script já está adaptado.
-
+> 
 ## Alinhamento Pedagógico
 - **Taxonomia de Bloom**:  
   - **Aplicar**: execução de comandos SQL reais  
